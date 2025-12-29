@@ -1,20 +1,22 @@
 # PHP: Practicas introductorias
 
 ## Descripción
-> Este repositorio reúne diversos proyectos, ejemplos y ejercicios de aprendizaje en PHP, recopilados de diferentes fuentes y recursos gratuitos disponibles en la web.
-> 
-> Está diseñado para estudiantes que se inician en el lenguaje o que buscan reforzar los fundamentos a través de ejemplos prácticos.
-> 
-> Algunos archivos pueden encontrarse inconclusos o parcialmente desarrollados, con el propósito de que los usuarios practiquen completándolos por su cuenta.
-> 
-> Además, muchos fragmentos de código incluyen comentarios, observaciones y notas explicativas (principalmente en español), que destacan aspectos importantes del lenguaje y buenas prácticas en su uso.
+>Este repositorio reúne una colección de proyectos, ejemplos y ejercicios prácticos desarrollados en PHP, recopilados a partir de distintas fuentes y recursos gratuitos disponibles en la web. Está orientado principalmente a estudiantes y personas que se inician en el lenguaje, así como a quienes desean reforzar los fundamentos mediante la práctica constante.
+>
+>El contenido forma parte de mi propio proceso de aprendizaje en PHP, por lo que las soluciones y enfoques presentados no deben considerarse definitivos o óptimos en todos los casos. Algunas implementaciones pueden mejorarse o refactorizarse, y precisamente ese carácter evolutivo refleja el objetivo formativo del repositorio. Asimismo, algunos archivos pueden encontrarse incompletos o parcialmente desarrollados, ya sea para fomentar que otros usuarios los finalicen por su cuenta o como resultado de la falta de continuidad de ciertos cursos o ejercicios.
+>
+>Los ejercicios fueron desarrollados y probados en un entorno local utilizando XAMPP.
+
+<br>
 <br>
 
 ## Estado del repositorio 📊️
 <div align="center" style="display: inline_block">
-<img src="https://img.shields.io/badge/Avance-0%25-7389A6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Version-1.0-7389A6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Dificultad-Principiante-071739?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Verificaciones-Unitarias%20y%20Locales-071739?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Mantenimiento-En%20Pausa-E3C39D?style=for-the-badge" />
 </div>
+<br>
 <br>
 
 ## Tecnologías utilizadas 🔨
@@ -26,8 +28,9 @@
 <br>
 
 ### Notas importantes ⚠
-  - Los programas incluyen comentarios, observaciones y fórmulas explicativas, redactadas principalmente en español, para facilitar la comprensión del código y su propósito (*The programs include comments, observations, and explanatory formulas written primarily in Spanish to help clarify the code and its purpose*).
-  - El contenido está orientado a estudiantes con un nivel inicial o básico en JavaScript, así como a quienes buscan reforzar y practicar los fundamentos del lenguaje de manera guiada.
+  - Los documentos cuentan con comentarios, observaciones y fórmulas en español (*The programs include comments, observations, and explanatory formulas written primarily in Spanish to help clarify the code and its purpose*).
+  - El contenido está orientado a estudiantes con un nivel inicial o básico en PHP, así como a quienes buscan reforzar y practicar los fundamentos del lenguaje de manera guiada.
+<br>
 <br>
 
 ## Instalación y uso 🚀
@@ -44,7 +47,7 @@ Estas herramientas incluyen todo lo necesario para ejecutar código PHP (servido
 
 **🧩 Descarga del repositorio**
 No hay un proceso de instalación tradicional. Simplemente descarga el repositorio a tu computadora:
-1. Clonar el repositorio usando Git: ``` git clone https://github.com/odrasanchezdev/php-essentials ```
+1. Clonar el repositorio usando Git: ``` git clone https://github.com/odrasanchezdev/php-backend-basico ```
 2. O descargar un archivo ZIP directamente desde la página del repositorio en GitHub y descomprimirlo.
 
 <br>
@@ -53,7 +56,7 @@ No hay un proceso de instalación tradicional. Simplemente descarga el repositor
 1. Copia o mueve la carpeta del repositorio dentro del directorio del servidor local. Por ejemplo, en XAMPP suele ser: ``` C:\xampp\htdocs\ ```
    * En MAMP (macOS), normalmente: ``` /Applications/MAMP/htdocs/ ```
 2. Inicia tu servidor local (Apache o el que corresponda según tu entorno).
-3. Abre tu navegador y accede a la ruta local del proyecto, por ejemplo: ``` http://localhost/php-essentials/ ```
+3. Abre tu navegador y accede a la ruta local del proyecto, por ejemplo: ``` http://localhost/php-backend-basico/ ```
 4. Explora los diferentes archivos .php o carpetas del repositorio para visualizar los ejemplos y practicar.
 
 💡 *Sugerencia*: algunos archivos pueden incluir comentarios o ejercicios incompletos, pensados para que los usuarios los completen y refuercen su comprensión del lenguaje.
@@ -65,8 +68,9 @@ No hay un proceso de instalación tradicional. Simplemente descarga el repositor
  * Si deseas ejecutar scripts con base de datos, asegúrate de tener el servicio MySQL activo y configurar las credenciales en los archivos correspondientes.
 
 <br>
+<br>
 
-## Soporte
+## Soporte ⚙
 Si tienes alguna pregunta, encuentras un error en alguno de los documentos o deseas sugerir una mejora, ¡no dudes en abrir un issue en este repositorio! Me encantaría recibir tus comentarios.
 
 * ¿Encontraste un error? Abre un issue y describe el problema.
@@ -74,6 +78,7 @@ Si tienes alguna pregunta, encuentras un error en alguno de los documentos o des
 
 Acercate a mis redes sociales para atender tus dudas y sugerencias en la sección de [Contacto](#contacto-)
 
+<br>
 <br>
 
 ## Licencia ✅
